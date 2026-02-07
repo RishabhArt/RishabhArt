@@ -8,7 +8,7 @@ Dedicated IT professional with a passion for innovation, seeking to leverage my 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://rishabhart.github.io/)
-* ✉️  You can contact me at [rishabhshan7@gmail.com](mailto:rishabh92056@gmail.com)
+* ✉️  You can contact me at [rishabh92056@gmail.com](mailto:rishabh92056@gmail.com)
 * 🚀  I'm currently working on [Codeflex-AI](http://codeflex-ai-pi.vercel.app/)
 * 🧠  I'm currently learning LLM & AI Models
 * 💬  Ask me about I'm always ready to learn and try on new tools and projects
