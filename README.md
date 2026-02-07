@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rishabh shan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rishabh
 =====================================================================================================================================
 
 Full Stack Web Developer
@@ -8,7 +8,7 @@ Dedicated IT professional with a passion for innovation, seeking to leverage my 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://rishabhart.github.io/)
-* ✉️  You can contact me at [rishabhshan7@gmail.com](mailto:rishabhshan7@gmail.com)
+* ✉️  You can contact me at [rishabhshan7@gmail.com](mailto:rishabh92056@gmail.com)
 * 🚀  I'm currently working on [Codeflex-AI](http://codeflex-ai-pi.vercel.app/)
 * 🧠  I'm currently learning LLM & AI Models
 * 💬  Ask me about I'm always ready to learn and try on new tools and projects
