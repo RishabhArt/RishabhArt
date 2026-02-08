@@ -7,7 +7,6 @@ Full Stack Web Developer
 Dedicated IT professional with a passion for innovation, seeking to leverage my technical skills and problem-solving abilities in a challenging role. I am committed to continuous improvement and staying abreast of industry trends to drive successful project outcomes.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://rishabhart.github.io/)
 * ✉️  You can contact me at [rishabh92056@gmail.com](mailto:rishabh92056@gmail.com)
 * 🚀  I'm currently working on [Codeflex-AI](http://codeflex-ai-pi.vercel.app/)
 * 🧠  I'm currently learning LLM & AI Models
